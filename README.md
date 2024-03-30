@@ -4,7 +4,7 @@ A quick note...
 
 As the current goal of this project is to sell as a subscription-based service, the current repository is private. However, if you're here to understand more about the Facebook bot, this README outlines what you need to know. If you have any further questions or want to see it in action before it goes live, feel free to reach me on my socials!
 
-## Into to bot
+## Intro to bot
 
 This is a (very cool... well I think it is) Facebook Bot that's designed to simplify and automate the process of selling devices on Facebook Marketplace to resell. Currently intentionally only supporting iPhones as a search but will expand later as demand/request grows. Automating the search, properly filtering products, negotiation, and purchase processes, it significantly enhances efficiency and effectiveness in securing deals.
 
